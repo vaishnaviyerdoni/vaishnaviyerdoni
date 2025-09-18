@@ -43,9 +43,11 @@ Hello! I’m Vaishnavi Rajendra Yerdoni, a Physics postgraduate with a deep pass
 <a href="https://gprm.itsvg.in/" target="_blank">
   <img src="https://img.shields.io/badge/GPRM-000000?style=flat&logo=github&logoColor=white" />
 </a>
+<br>
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">
   <img src="https://img.shields.io/badge/Readme_Generator-000000?style=flat&logo=markdown&logoColor=white" />
 </a>
+
 
 
 

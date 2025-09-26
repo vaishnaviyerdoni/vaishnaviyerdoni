@@ -7,7 +7,7 @@ Hello! I’m Vaishnavi Rajendra Yerdoni, a Physics postgraduate with a deep pass
 <a href="https://linkedin.com/in/vaishnavi-yerdoni-ba9ba3289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-yerdoni-ba9ba3289/" height="30" width="40" /></a>
 </p
 
-<h3 align="left">Languages and Tools:</h3>
+## Tools and Languages
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 

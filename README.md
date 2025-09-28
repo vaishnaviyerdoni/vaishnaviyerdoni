@@ -42,11 +42,8 @@ Hello! I’m Vaishnavi Rajendra Yerdoni, a Physics postgraduate with a deep pass
 ![](https://github-readme-stats.vercel.app/api?username=vaishnaviyerdoni&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vaishnaviyerdoni&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviyerdoni&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=vaishnaviyerdoni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 #### Resources/Credits for README.md
 <a href="https://gprm.itsvg.in/" target="_blank">
   <img src="https://img.shields.io/badge/GPRM-000000?style=flat&logo=github&logoColor=white" />
